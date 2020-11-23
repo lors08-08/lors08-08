@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## Связаться со мной
 
-[![Alt text](//![https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white])](https://wa.me/79389077810")
+[![Alt text](//https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79389077810")
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
 
 
