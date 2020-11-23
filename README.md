@@ -30,7 +30,7 @@ hgfjgjgh
 
 
 ![foo][bar]
-[bar]: /img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white "title"
+[bar]: https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white "title"
 
 
 
