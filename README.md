@@ -29,7 +29,7 @@ hgfjgjgh
 
 
 
-![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=whites=200)
+![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=whites=250)
 
 
 
