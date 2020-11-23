@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![](https://itpro.ua/uploads/catalog/article/140x160/jetbrains-webstorm.png)
+![](https://itpro.ua/uploads/catalog/article/140x160/jetbrains-webstorm.png&&s=200)
 	
 
 ## Связаться со мной
