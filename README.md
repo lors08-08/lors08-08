@@ -1,6 +1,6 @@
 # 👋 
 ### Меня зовут Лорс, Я frontend разработчик, пишу на JavaSript, используя React, Redux
-### На данный момент занимаюсь версткой и улучшение сайтов 
+### На данный момент занимаюсь версткой и улучшением сайтов 
 
 <!--
 **lors08-08/lors08-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ hgfjgjgh
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t-do.ru/thels8)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&&s=250)](https://instagram.com/lors.08?=nametag)
 
-## Работаю на следующиз ОС
+## Работаю на следующих ОС
 
 ![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
