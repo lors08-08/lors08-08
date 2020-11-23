@@ -31,5 +31,10 @@ hgfjgjgh
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t-do.ru/thels8)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&&s=250)](https://instagram.com/lors.08?=nametag)
 
+## Работаю на следующиз ОС
+
+![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+
+
 
 
