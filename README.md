@@ -1,5 +1,5 @@
 # 👋 
-fgdhfg
+### Меня зовут Лорс, Я frontend разработчик
 
 <!--
 **lors08-08/lors08-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
