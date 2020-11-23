@@ -1,6 +1,6 @@
 # 👋 
 ## Меня зовут Лорс, Я frontend разработчик, пишу на JavaSript, используя React, Redux
-### На данный момент занимаюсь версткой и улучшением сайтов 
+### На данный момент занимаюсь версткой и улучшением сайтов :computer:
 
 <!--
 **lors08-08/lors08-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
-</a><a href="https://t-do.ru/thels8"><img align="left" alt="Java" width="200px" src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" /></a></a><a href="https://instagram.com/lors.08?=nametag"><img align="left" alt="Java" width="200px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 -->
-
-hgfjgjgh
 
 ## Стек Технологий
 
-вап вапав вапав 
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 
 ## Связаться со мной
 
@@ -34,7 +36,6 @@ hgfjgjgh
 ## Работаю на следующих ОС
 
 ![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-
 
 
 
