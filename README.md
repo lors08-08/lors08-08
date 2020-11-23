@@ -29,7 +29,7 @@ hgfjgjgh
 
 
 
-![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
+![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=whites=200)
 
 
 
