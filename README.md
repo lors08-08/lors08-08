@@ -28,15 +28,15 @@ https://github.com/lors08-08/to-do-app
 ## Верстки
 
 Hielo:
-Репозиторий - https://github.com/lors08-08/hielo
+Репозиторий - https://github.com/lors08-08/hielo  
 Демо - https://lors08-08.github.io/hielo/
 
 Empelza:
-Репозиторий - https://github.com/lors08-08/empelza
+Репозиторий - https://github.com/lors08-08/empelza  
 Демо - https://lors08-08.github.io/empelza/
 
 Building-Projets:
-Репозиторий - https://github.com/lors08-08/building-projects
+Репозиторий - https://github.com/lors08-08/building-projects  
 Демо - https://lors08-08.github.io/building-projects/
 
 ## Cтек технологий и инструментов 
