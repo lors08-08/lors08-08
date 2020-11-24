@@ -1,5 +1,5 @@
 # 👋 
-## Я Frontend-разработчик, пишу на стеке JavaSript - React-Redux
+## Я frontend-разработчик, пишу на стеке JavaSript - React - Redux
 ### Сейчас изучаю styled-components 
 
 <!--
