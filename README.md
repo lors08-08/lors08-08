@@ -1,6 +1,6 @@
 # 👋 
-## Я frontend разработчик, пишу на стеке JavaSript - React, Redux
-### Сейчас изучаю Styled.components :computer:
+## Я Frontend-разработчик, пишу на стеке JavaSript - React-Redux
+### Сейчас изучаю styled-components 
 
 <!--
 **lors08-08/lors08-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,28 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Десктопный чат на React/Redux
-
-https://github.com/lors08-08/chat-telegram
-
-## Десктопное приложение для добавления, изменения и редактирования задач - toDoApp.
-
-https://github.com/lors08-08/to-do-app
-
-## Верстки
-
-Hielo:
-Репозиторий - https://github.com/lors08-08/hielo  
-Демо - https://lors08-08.github.io/hielo/
-
-Empelza:
-Репозиторий - https://github.com/lors08-08/empelza  
-Демо - https://lors08-08.github.io/empelza/
-
-Building-Projets:
-Репозиторий - https://github.com/lors08-08/building-projects  
-Демо - https://lors08-08.github.io/building-projects/
-
 ## Cтек технологий и инструментов 
 
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,7 +30,30 @@ Building-Projets:
 ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_webstorm_button_icon_151873.png" width="120" height="27">
 ![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-	
+
+# Мои проекты
+
+## Десктопное приложение для добавления, изменения и редактирования задач - toDoApp.
+
+https://github.com/lors08-08/to-do-app
+
+## Десктопный чат на React/Redux
+
+https://github.com/lors08-08/chat-telegram
+
+## Верстки
+
+Hielo:
+Репозиторий - https://github.com/lors08-08/hielo  
+Демо - https://lors08-08.github.io/hielo/
+
+Empelza:
+Репозиторий - https://github.com/lors08-08/empelza  
+Демо - https://lors08-08.github.io/empelza/
+
+Building-Projets:
+Репозиторий - https://github.com/lors08-08/building-projects  
+Демо - https://lors08-08.github.io/building-projects/	
 
 ## Связаться со мной
 
