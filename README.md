@@ -1,5 +1,5 @@
 # 👋 
-## Меня зовут Лорс, Я frontend разработчик, пишу на стеке JavaSript - React, Redux
+## Я frontend разработчик, пишу на стеке JavaSript - React, Redux
 ### Сейчас изучаю Styled.components :computer:
 
 <!--
@@ -17,8 +17,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Cтек технологий и инструментов 
+## Десктопный чат на React/Redux
 
+https://github.com/lors08-08/chat-telegram
+
+## Десктопное приложение для добавления, изменения и редактирования задач - toDoApp.
+
+https://github.com/lors08-08/to-do-app
+
+## Верстки
+
+Hielo:
+Репозиторий - https://github.com/lors08-08/hielo
+Демо - https://lors08-08.github.io/hielo/
+
+Empelza:
+Репозиторий - https://github.com/lors08-08/empelza
+Демо - https://lors08-08.github.io/empelza/
+
+Building-Projets:
+Репозиторий - https://github.com/lors08-08/building-projects
+Демо - https://lors08-08.github.io/building-projects/
+
+## Cтек технологий и инструментов 
 
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
