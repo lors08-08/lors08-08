@@ -1,6 +1,5 @@
 # 👋 
 ## Я frontend-разработчик, пишу на стеке JavaScript - React - Redux
-### Сейчас изучаю styled-components  :nail_care:
 
 <!--
 **lors08-08/lors08-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +21,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_webstorm_button_icon_151873.png" width="120" height="27">
-![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  
+
+## Скоро стек дополнится с ![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 
 # Мои проекты
 
@@ -44,15 +44,15 @@ https://github.com/lors08-08/chat-telegram
 ## Верстки
 
 Hielo:
-Репозиторий - https://github.com/lors08-08/hielo  
+Код - https://github.com/lors08-08/hielo  
 Демо - https://lors08-08.github.io/hielo/
 
 Empelza:
-Репозиторий - https://github.com/lors08-08/empelza  
+Код - https://github.com/lors08-08/empelza  
 Демо - https://lors08-08.github.io/empelza/
 
 Building-Projets:
-Репозиторий - https://github.com/lors08-08/building-projects  
+Код - https://github.com/lors08-08/building-projects  
 Демо - https://lors08-08.github.io/building-projects/	
 
 ## Связаться со мной
