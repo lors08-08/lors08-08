@@ -43,15 +43,15 @@ https://github.com/lors08-08/chat-telegram
 
 ## Верстки
 
-Hielo:
+Hielo:  
 Код - https://github.com/lors08-08/hielo  
 Демо - https://lors08-08.github.io/hielo/
 
-Empelza:
+Empelza:  
 Код - https://github.com/lors08-08/empelza  
 Демо - https://lors08-08.github.io/empelza/
 
-Building-Projets:
+Building-Projets:  
 Код - https://github.com/lors08-08/building-projects  
 Демо - https://lors08-08.github.io/building-projects/	
 
