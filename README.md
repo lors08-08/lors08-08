@@ -32,30 +32,17 @@ Here are some ideas to get you started:
 
 # Мои проекты
 
-## Продвинутый список дел - toDoApp.
+* Продвинутый список дел - toDoApp: [Код](https://github.com/lors08-08/to-do-app) | [Демо](https://todoapp-lors.herokuapp.com/)  
 
-Код - https://github.com/lors08-08/to-do-app
-Демо - https://todoapp-lors.herokuapp.com/
-
-## Приложение чат на React/Redux
-
-Код - https://github.com/lors08-08/chat-telegram
-Демо - https://still-chamber-56716.herokuapp.com/5f31422e9418570bc43fcbb4   
-[GitHub](http://github.com)
+* Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://still-chamber-56716.herokuapp.com/5f31422e9418570bc43fcbb4)  
 
 ## Верстки
 
-Hielo:  
-Код - https://github.com/lors08-08/hielo  
-Демо - https://lors08-08.github.io/hielo/
+Hielo: [Демо](https://lors08-08.github.io/hielo/)
 
-Empelza:  
-Код - https://github.com/lors08-08/empelza  
-Демо - https://lors08-08.github.io/empelza/
+Empelza: [Демо](https://lors08-08.github.io/empelza/)
 
-Building-Projets:  
-Код - https://github.com/lors08-08/building-projects  
-Демо - https://lors08-08.github.io/building-projects/	
+Building-Projets: [Демо](https://lors08-08.github.io/building-projects/)
 
 ## Связаться со мной
 
