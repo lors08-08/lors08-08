@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 * Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://still-chamber-56716.herokuapp.com/5f31422e9418570bc43fcbb4)  
 
-* ####Верстки [Hielo](https://lors08-08.github.io/hielo/) [Empelza](https://lors08-08.github.io/empelza/) [Building-Projets](https://lors08-08.github.io/building-projects/)
+* **Верстки** [Hielo](https://lors08-08.github.io/hielo/) [Empelza](https://lors08-08.github.io/empelza/) [Building-Projets](https://lors08-08.github.io/building-projects/)
 
 ## Связаться со мной
 
