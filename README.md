@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
-![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -33,13 +32,16 @@ Here are some ideas to get you started:
 
 # Мои проекты
 
-## Десктопное приложение для добавления, изменения и редактирования задач - toDoApp.
+## Продвинутый список дел - toDoApp.
 
-https://github.com/lors08-08/to-do-app
+Код - https://github.com/lors08-08/to-do-app
+Демо - https://todoapp-lors.herokuapp.com/
 
-## Десктопный чат на React/Redux
+## Приложение чат на React/Redux
 
-https://github.com/lors08-08/chat-telegram
+Код - https://github.com/lors08-08/chat-telegram
+Демо - https://still-chamber-56716.herokuapp.com/5f31422e9418570bc43fcbb4   
+[GitHub](http://github.com)
 
 ## Верстки
 
