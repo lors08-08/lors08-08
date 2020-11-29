@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 # Мои проекты
 
-* Продвинутый список дел - toDoApp: [Код](https://github.com/lors08-08/to-do-app) | [Демо](https://todoapp-lors.herokuapp.com/)  
+* Продвинутый список дел - toDoApp: [Код](https://github.com/lors08-08/to-do-app) | [Демо](https://to-do-app-lors.herokuapp.com/)  
 
 * Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://still-chamber-56716.herokuapp.com/5f31422e9418570bc43fcbb4)  
 
