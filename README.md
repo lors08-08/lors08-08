@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 # Тестовые задания, которые я выполнил:
 * Конвертер валют - Converter: [Код](https://github.com/lors08-08/converter) | [Демо](https://converter-lors.herokuapp.com/)
-* Менеджер контактов - MyContacts: [Код](https://github.com/lors08-08/contactsmanager-hh) | [Демо](https://contactsmanager-lors.herokuapp.com/l)
+* Менеджер контактов - MyContacts: [Код](https://github.com/lors08-08/contactsmanager-hh) | [Демо](https://contactsmanager-lors.herokuapp.com/)
 * Лента новостей с админкой - MyFeed: [Код](https://github.com/lors08-08/spaprofilancegroup-testhh)
 
 ## Связаться со мной
