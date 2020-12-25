@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 
 * **Верстки**: [Hielo](https://lors08-08.github.io/hielo/) | [Empelza](https://lors08-08.github.io/empelza/) | [Building-Projets](https://lors08-08.github.io/building-projects/)
 
+# Тестовые задания, которые я выполнил:
+* Конвертер валют - Converter: [Код](https://github.com/lors08-08/converter) | [Демо](https://converter-lors.herokuapp.com/)
+* Менеджер контактов - MyContacts: [Код](https://github.com/lors08-08/contactsmanager-hh) | [Демо](https://contactsmanager-lors.herokuapp.com/l)
+* Лента новостей с админкой - MyFeed: [Код](https://github.com/lors08-08/spaprofilancegroup-testhh)
+
 ## Связаться со мной
 
 [![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white&&s=250)](https://wa.me/79389077810)
