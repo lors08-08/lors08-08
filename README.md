@@ -1,5 +1,5 @@
 # 👋 
-## Я frontend-разработчик, пишу на стеке JavaScript - React - Redux
+## Frontend-разработчик, пишу на стеке JavaScript - React - Redux
 
 <!--
 **lors08-08/lors08-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
