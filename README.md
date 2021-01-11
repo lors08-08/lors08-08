@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 * Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.herokuapp.com/)  
 
+* Трекер природных бедствий - NaturalDisastersTracker: [Код](https://github.com/lors08-08/NaturalDisasters-testhh) | [Демо](https://natural-disasters-tracker.netlify.app/)
+
 * **Верстки**: [Hielo](https://lors08-08.github.io/hielo/) | [Empelza](https://lors08-08.github.io/empelza/) | [Building-Projets](https://lors08-08.github.io/building-projects/)
 
 # Тестовые задания, которые я выполнил:
