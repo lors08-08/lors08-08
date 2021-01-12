@@ -48,9 +48,12 @@ Here are some ideas to get you started:
 * **Верстки**: [Hielo](https://lors08-08.github.io/hielo/) | [Empelza](https://lors08-08.github.io/empelza/) | [Building-Projets](https://lors08-08.github.io/building-projects/)
 
 # Тестовые задания, которые я выполнил:
+* API менеджер - ApiManager: [Код](https://github.com/lors08-08/apimanager-testhh) | [Демо](https://apimanager-lors.herokuapp.com)
 * Конвертер валют - Converter: [Код](https://github.com/lors08-08/converter) | [Демо](https://converter-lors.herokuapp.com/)
 * Менеджер контактов - MyContacts: [Код](https://github.com/lors08-08/contactsmanager-hh) | [Демо](https://contactsmanager-lors.herokuapp.com/)
 * Лента новостей с админкой - MyFeed: [Код](https://github.com/lors08-08/spaprofilancegroup-testhh)
+
+
 
 
 
