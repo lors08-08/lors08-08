@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 * Продвинутый список дел - toDoApp: [Код](https://github.com/lors08-08/to-do-app) | [Демо](https://to-do-app-lors.herokuapp.com/)  
 
-* Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.herokuapp.com/)  
+* Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)  
 
 * Трекер природных бедствий - NaturalDisastersTracker: [Код](https://github.com/lors08-08/NaturalDisasters-testhh) | [Демо](https://natural-disasters-tracker.netlify.app/)
 
