@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 # Мои проекты
 
-* Продвинутый список дел - toDoApp: [Код](https://github.com/lors08-08/to-do-app) | [Демо](https://to-do-app-lors.herokuapp.com/)  
+* Task-Manager - toDoApp: [Код](https://github.com/lors08-08/to-do-app) | [Демо](https://to-do-app-lors.herokuapp.com/)  
 
 * Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)  
 
