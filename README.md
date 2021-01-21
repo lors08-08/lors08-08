@@ -39,13 +39,25 @@ Here are some ideas to get you started:
 
 # Мои проекты
 
-* Task-Manager - toDoApp: [Код](https://github.com/lors08-08/to-do-app) | [Демо](https://to-do-app-lors.herokuapp.com/)  
+### Менеджер задач - Task Manager: [Код](https://github.com/lors08-08/task-manager) | [Демо](https://to-do-app-lors.herokuapp.com/)  
 
-* Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)  
+* добавление, изменение, удаление задач / Разделение по категориям и добавление категории / Поиск по задачам / Корзина / Список завершенных задач;
+* redux / redux-thunk / react-transition-group / REST API / JSON-Serever / React Hooks
 
-* Трекер природных бедствий - NaturalDisastersTracker: [Код](https://github.com/lors08-08/NaturalDisasters-testhh) | [Демо](https://natural-disasters-tracker.netlify.app/)
+### Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)
 
-* **Верстки**: [Hielo](https://lors08-08.github.io/hielo/) | [Empelza](https://lors08-08.github.io/empelza/) | [Building-Projets](https://lors08-08.github.io/building-projects/)
+* Отправка сообщений / Выбор контакта / Инофрмация о контакте / Поиск по контактам и сообщениям
+* React / Redux / React Hooks / React-router-dom  
+
+### Трекер природных бедствий - NaturalDisastersTracker: [Код](https://github.com/lors08-08/NaturalDisasters-testhh) | [Демо](https://natural-disasters-tracker.netlify.app/)
+
+* Отмечены ЧП, маркерами по всему миру / Выбор по ЧП / Дополнительная информация по каждому ЧП
+* Redux / Redux-thunk / SASS / Material Ui, iconify / Google-map-react / REST API / React Hooks
+
+### Верстки: 
+* [Hielo](https://lors08-08.github.io/hielo/) 
+* [Empelza](https://lors08-08.github.io/empelza/) 
+* [Building-Projets](https://lors08-08.github.io/building-projects/)
 
 # Тестовые задания, которые я выполнил:
 * API менеджер - ApiManager: [Код](https://github.com/lors08-08/apimanager-testhh) | [Демо](https://apimanager-lors.herokuapp.com)
