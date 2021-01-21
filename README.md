@@ -41,17 +41,17 @@ Here are some ideas to get you started:
 
 ### Менеджер задач - Task Manager: [Код](https://github.com/lors08-08/task-manager) | [Демо](https://to-do-app-lors.herokuapp.com/)  
 
-* добавление, изменение, удаление задач / Разделение по категориям и добавление категории / Поиск по задачам / Корзина / Список завершенных задач;
-* redux / redux-thunk / react-transition-group / REST API / JSON-Serever / React Hooks
+* добавление, изменение, удаление задач / разделение по категориям и добавление категорий / поиск по задачам / корзина / список завершенных задач;
+* redux / redux-thunk / react-transition-group / REST API / JSON-Serever / react hooks
 
 ### Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)
 
-* Отправка сообщений / Выбор контакта / Инофрмация о контакте / Поиск по контактам и сообщениям
-* React / Redux / React Hooks / React-router-dom  
+* отправка сообщений / выбор контакта / инофрмация о контакте / поиск по контактам и сообщениям
+* react / redux / react hooks / react-router-dom  
 
 ### Трекер природных бедствий - NaturalDisastersTracker: [Код](https://github.com/lors08-08/NaturalDisasters-testhh) | [Демо](https://natural-disasters-tracker.netlify.app/)
 
-* Отмечены ЧП, маркерами по всему миру / Выбор по ЧП / Дополнительная информация по каждому ЧП
+* отмечены ЧП маркерами по всему миру / выбор по ЧП / дополнительная информация по каждому ЧП
 * Redux / Redux-thunk / SASS / Material Ui, iconify / Google-map-react / REST API / React Hooks
 
 ### Верстки: 
