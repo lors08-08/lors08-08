@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
+![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img src="https://camo.githubusercontent.com/2c35078344be480c144d239355446838b6e63cfbbf650077a209262728ba3440/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" width="100" height="27">
@@ -32,10 +33,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_webstorm_button_icon_151873.png" width="120" height="27">
 ![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  
- 
 
 
-## Скоро стек дополнится с ![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
+## Скоро стек дополнится с [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 # Мои проекты
 
