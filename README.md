@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## Cтек технологий и инструментов 
 
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)  
 
 
-## Скоро стек дополнится с [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-150x33.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+## Скоро стек дополнится с <img src="https://camo.githubusercontent.com/9c71d683b6ae49841ad8418b36a8e0155322f2f7feff416bf93c9d2ec7ff0841/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d536167612d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="140" height="37">
 
 # Мои проекты
 
