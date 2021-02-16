@@ -51,6 +51,11 @@ Here are some ideas to get you started:
 * отправка сообщений / выбор контакта / инофрмация о контакте / поиск по контактам и сообщениям
 * react / redux / react hooks / react-router-dom  
 
+### Приложение магазин пиццерии на TypeScript/React/Redux: [Код](https://github.com/lors08-08/myCart-pizzaStore) | [Демо](https://mycart-pizzastore-lors.herokuapp.com/)
+
+* добавление товара в корзину / удаление и изменение количества товаров / каталог / инофрмация о товаре 
+* typescript / react / redux / react hooks 
+
 ### Трекер природных бедствий - NaturalDisastersTracker: [Код](https://github.com/lors08-08/NaturalDisasters-testhh) | [Демо](https://natural-disasters-tracker.netlify.app/)
 
 * отмечены ЧП маркерами по всему миру / выбор по ЧП / дополнительная информация по каждому ЧП
