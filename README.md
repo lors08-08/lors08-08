@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 * Менеджер контактов - MyContacts: [Код](https://github.com/lors08-08/contactsmanager-hh) | [Демо](https://contactsmanager-lors.herokuapp.com/)
 * Лента новостей с админкой - MyFeed: [Код](https://github.com/lors08-08/spaprofilancegroup-testhh)
 * Информация о запусках ракет SpaceX - SpaceXLaunches: [Код](https://github.com/lors08-08/spacexFlights-testhh) | [Демо](https://spacex-launches-lors.netlify.app/)
+* Калькулятор - Calculator(React,TypeScript): [Код](https://github.com/lors08-08/calculator-ts) | [Демо](https://calculator-bylors.netlify.app/)
 
 
 
