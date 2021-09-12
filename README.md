@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ## Скоро стек дополнится с <img src="https://camo.githubusercontent.com/9c71d683b6ae49841ad8418b36a8e0155322f2f7feff416bf93c9d2ec7ff0841/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d536167612d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="140" height="37">
 
 ## Профиль в [Codewars](https://www.codewars.com/users/Lors.08) 
+[![](https://www.codewars.com/users/Lors.08/badges/large)](https://www.codewars.com/users/Lors.08)
 
 # Мои проекты
 
