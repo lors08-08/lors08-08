@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_webstorm_button_icon_151873.png" width="120" height="27">
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 ## Профиль в [Codewars](https://www.codewars.com/users/Lors.08) 
 [![](https://www.codewars.com/users/Lors.08/badges/large)](https://www.codewars.com/users/Lors.08)
