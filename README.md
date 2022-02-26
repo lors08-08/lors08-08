@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 
 ## Связаться со мной
 
-[![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white&&s=250)](https://wa.me/79389077810)
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t-do.ru/thels8)
 
 
