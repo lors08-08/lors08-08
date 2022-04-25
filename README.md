@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 * добавление, изменение, удаление задач / разделение по категориям и добавление категорий / поиск по задачам / корзина / список завершенных задач;
 * redux / redux-thunk / react-transition-group / REST API / JSON-Serever / react hooks
 
+### Проект бэкенда для чата(в разарботке): [Код](https://github.com/lors08-08/backend-magingstou)
+
 ### Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)
 
 * отправка сообщений / выбор контакта / инофрмация о контакте / поиск по контактам и сообщениям
