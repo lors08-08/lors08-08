@@ -13,17 +13,13 @@
 
 # Мои проекты
 
-### Менеджер задач - Task Manager: [Код](https://github.com/lors08-08/task-manager) | [Демо](https://to-do-app-lors.herokuapp.com/)  
+### Приложение чат на VanillaJs: [Код](https://github.com/lors08-08/WebApp-ChatPro-VanillaJs) | [Демо](https://chat-pro-by-lors.netlify.app/)
 
-* добавление, изменение, удаление задач / разделение по категориям и добавление категорий / поиск по задачам / корзина / список завершенных задач;
-* redux / redux-thunk / react-transition-group / REST API / JSON-Serever / react hooks
+* самописный шаблонизатор / cамописный Router / cвоя реализация XMLHttpRequest для работы с запросами
+* typescript / Webpack / WebSockets / Babel
 
 ### Проект бэкенда для чата(в разарботке): [Код](https://github.com/lors08-08/backend-magingstou)
 
-### Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)
-
-* отправка сообщений / выбор контакта / инофрмация о контакте / поиск по контактам и сообщениям
-* react / redux / react hooks / react-router-dom  
 
 ### Приложение для магазина пиццерии на TypeScript/React/Redux: [Код](https://github.com/lors08-08/myCart-pizzaStore) | [Демо](https://mycart-pizzastore-lors.herokuapp.com/)
 
@@ -34,6 +30,10 @@
 
 * отмечены ЧП маркерами по всему миру / выбор по ЧП / дополнительная информация по каждому ЧП
 * Redux / Redux-thunk / SASS / Material Ui, iconify / Google-map-react / REST API / React Hooks
+
+### Другие мои проекты:
+* Менеджер задач - Task Manager [Код](https://github.com/lors08-08/task-manager) | [Демо](https://to-do-app-lors.herokuapp.com/) 
+* Приложение чат на React/Redux: [Код](https://github.com/lors08-08/chat-telegram) | [Демо](https://chat-app-lors.netlify.app/)
 
 ### Верстки: 
 * [Hielo](https://lors08-08.github.io/hielo/) 
